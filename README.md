@@ -9,6 +9,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Mr404-404/ai-rules-cn/pulls)
 
+简体中文 | [English](README.en.md)
+
 </div>
 
 ---
@@ -45,12 +47,15 @@ rules/
 │   ├── python.md                 # Python 编码规范
 │   └── javascript-typescript.md  # JS/TS 编码规范
 ├── frameworks/         # 框架规范
-│   └── react.md                  # React 开发规范
+│   ├── react.md                  # React 开发规范
+│   └── vue.md                    # Vue 开发规范
 └── practices/          # 工程实践
     ├── git-commit.md             # 提交信息规范
     ├── code-review.md            # AI 代码审查清单
     ├── security.md               # 安全红线
-    └── testing.md                # 测试规范
+    ├── testing.md                # 测试规范
+    ├── sql-database.md           # SQL 与数据库规范
+    └── docker.md                 # Docker 规范
 ```
 
 **方式三：Cursor / Claude Code 专用模板**
